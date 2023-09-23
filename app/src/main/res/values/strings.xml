@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ElectricCarNavApp</string>
+    <string name="title">Carros Elétricos</string>
+    <string name="cars">Carros</string>
+    <string name="favorites">Favoritos</string>
+    <string name="model">Modelo</string>
+    <string name="price">Preço</string>
+    <string name="battery">Bateria</string>
+    <string name="power">Potência</string>
+    <string name="recharge">Recarga</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="resultado">Resultado:</string>
+    <string name="autonomy_title">Calcular Autonomia</string>
+    <string name="no_wifi">Oops... sem conexão!</string>
+    <string name="response_error">Algo deu errado... por favor, tente mais tarde</string>
+
+    // strings para as chaves -> SharedPreferences
+    <string name="shared_calc">autonomia</string>
+
+    <string-array name="cars">
+        <item>Toyoto Corolla</item>
+        <item>Honda Civic</item>
+        <item>Jeep Renegade</item>
+        <item>Honda HRV</item>
+        <item>Hiunday Creta</item>
+        <item>Nissan Kicks</item>
+        <item>Jeep Compass</item>
+        <item>Ford EcoSport</item>
+        <item>VW Nivus</item>
+        <item>VW T-Cross</item>
+    </string-array>
+
+</resources>
